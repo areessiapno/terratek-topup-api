@@ -1,0 +1,14 @@
+{
+  "name": "terratek-topup-api",
+  "version": "0.1.0",
+  "description": "Terratek Topup api for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arees Siapno",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
